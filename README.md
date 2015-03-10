@@ -1,4 +1,4 @@
-# College football class attrition and it's influence on seasonal win-loss
+# College football class attrition and its influence on seasonal win-loss
 Is attrition rate of an entering class a significant predictor of seasonal winning percentage?
 
 A redditor user put together the a listing of attrition rate by class here:
